@@ -1,0 +1,53 @@
+Nome do dispositivo	NT-01
+Processador	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
+RAM instalada	8,00 GB (utilizável: 7,85 GB)
+ID do dispositivo	D14C2B49-80A1-41B8-AC19-48D052B41109
+ID do Produto	00330-80186-74010-AA334
+Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64
+Caneta e toque	Nenhuma entrada à caneta ou por toque disponível para este vídeo
+
+1 tentativa - 100 interacao
+
+Par1.DRR.0.19.08.2023.1719
+Tempo total[s]: 2044.033331155777
+
+Par1.DRR.270.19.08.2023.1801
+Tempo total[s]: 1885.2675116062164
+
+Par2.DRR.0.19.08.2023.1838
+Tempo total[s]: 2157.563481092453
+
+Par2.DRR.270.19.08.2023.1935
+Tempo total[s]: 2195.227683544159
+
+Par3.DRR.0.19.08.2023.2126
+Tempo total[s]: 2310.2050297260284
+
+Par3.DRR.270.19.08.2023.2254
+Tempo total[s]: 1936.103270292282
+
+segunda tentativa 25 interacao
+
+(0,0)
+Par1.DRR.0.19.08.2023.2308
+Tempo total[s]: 444.3644959926605
+
+Par1.DRR.270.19.08.2023.2318
+Tempo total[s]: 497.66006541252136
+
+(-10,-10)
+Par2.DRR.0.19.08.2023.2335
+Tempo total[s]: 572.3231501579285
+
+Par2.DRR.270.19.08.2023.2349
+Tempo total[s]: 793.6428594589233
+
+(10,10)
+
+Par3.DRR.0.20.08.2023.0004
+Tempo total[s]: 737.6344757080078
+
+Par3.DRR.270.20.08.2023.0017
+Tempo total[s]: 708.5069971084595
+
+
